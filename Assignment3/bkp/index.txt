@@ -1,0 +1,29 @@
+<div class="col-lg-4 col-md-6  " id="chicken" >
+    <div class="menu card">
+    
+      <p class="menu-title">Chicken</p>
+    
+        <p class="menu-description">Kenelm Jerton entered the dining-hall of the Golden Galleon Hotel in the full crush of the luncheon hour. Nearly every seat was occupied, and small additional tables had been brought in, where floor space permitted, to accommodate latecomers, with the result that many of the tables were almost touching each other. </p></div>
+        </div>
+      
+   
+    
+  <div class="col-lg-4 col-md-6" id="Beef">
+    
+   <div class="menu card">
+    
+      <p class="menu-title">Beef</p>
+    
+        <p class="menu-description">Kenelm Jerton entered the dining-hall of the Golden Galleon Hotel in the full crush of the luncheon hour. Nearly every seat was occupied, and small additional tables had been brought in, where floor space permitted, to accommodate latecomers, with the result that many of the tables were almost touching each other. </p></div>
+        </div>
+      
+
+  <div class="col-lg-4 col-md-12" id="Sushi">
+    
+      <div class="menu card">
+    
+      <p class="menu-title">Sushi</p>
+    
+        <p class="menu-description">Kenelm Jerton entered the dining-hall of the Golden Galleon Hotel in the full crush of the luncheon hour. Nearly every seat was occupied, and small additional tables had been brought in, where floor space permitted, to accommodate latecomers, with the result that many of the tables were almost touching each other. </p></div>
+        </div>
+
