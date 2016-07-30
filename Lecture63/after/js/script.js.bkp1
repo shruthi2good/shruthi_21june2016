@@ -1,0 +1,4 @@
+var categoryarray = new Array("A","B","C","CM","CSR","CU","D","DK","DS","F","FR","FY","L","NF","NL","NS","PF","SO","SP","SR","SS","T","V","VG");
+var random = categoryarray[Math.floor(Math.random() * categoryarray.length)];
+var categoryShort=random;
+console.log("random menu"+categoryShort);
