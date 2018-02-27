@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="471" started-at="2017-10-09T10:25:05Z" finished-at="2017-10-09T10:25:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="471" started-at="2017-10-09T10:25:05Z" finished-at="2017-10-09T10:25:05Z">
+      <class name="iPAddressValidation.IPAddressValidatorTest">
+        <test-method status="PASS" signature="initData()[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="initData" is-config="true" duration-ms="27" started-at="2017-10-09T21:25:05Z" finished-at="2017-10-09T21:25:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initData -->
+        <test-method status="PASS" signature="InValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="InValidIPAddressTest" duration-ms="29" started-at="2017-10-09T21:25:05Z" data-provider="InValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10.10.10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidIPAddressTest -->
+        <test-method status="PASS" signature="InValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="InValidIPAddressTest" duration-ms="35" started-at="2017-10-09T21:25:05Z" data-provider="InValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10.10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidIPAddressTest -->
+        <test-method status="PASS" signature="InValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="InValidIPAddressTest" duration-ms="9" started-at="2017-10-09T21:25:05Z" data-provider="InValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidIPAddressTest -->
+        <test-method status="PASS" signature="InValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="InValidIPAddressTest" duration-ms="8" started-at="2017-10-09T21:25:05Z" data-provider="InValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a.a.a.a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidIPAddressTest -->
+        <test-method status="PASS" signature="InValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="InValidIPAddressTest" duration-ms="6" started-at="2017-10-09T21:25:05Z" data-provider="InValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10.0.0.a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidIPAddressTest -->
+        <test-method status="PASS" signature="InValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="InValidIPAddressTest" duration-ms="9" started-at="2017-10-09T21:25:05Z" data-provider="InValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[22.2222.22.2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidIPAddressTest -->
+        <test-method status="PASS" signature="InValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="InValidIPAddressTest" duration-ms="29" started-at="2017-10-09T21:25:05Z" data-provider="InValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10.10.10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidIPAddressTest -->
+        <test-method status="PASS" signature="InValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="InValidIPAddressTest" duration-ms="11" started-at="2017-10-09T21:25:05Z" data-provider="InValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10.10.10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidIPAddressTest -->
+        <test-method status="PASS" signature="ValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="ValidIPAddressTest" duration-ms="7" started-at="2017-10-09T21:25:05Z" data-provider="ValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.1.1.1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidIPAddressTest -->
+        <test-method status="PASS" signature="ValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="ValidIPAddressTest" duration-ms="6" started-at="2017-10-09T21:25:05Z" data-provider="ValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[192.168.1.1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidIPAddressTest -->
+        <test-method status="PASS" signature="ValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="ValidIPAddressTest" duration-ms="12" started-at="2017-10-09T21:25:05Z" data-provider="ValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10.10.1.1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidIPAddressTest -->
+        <test-method status="PASS" signature="ValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="ValidIPAddressTest" duration-ms="9" started-at="2017-10-09T21:25:05Z" data-provider="ValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[132.254.111.10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidIPAddressTest -->
+        <test-method status="PASS" signature="ValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="ValidIPAddressTest" duration-ms="8" started-at="2017-10-09T21:25:05Z" data-provider="ValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26.10.2.10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidIPAddressTest -->
+        <test-method status="PASS" signature="ValidIPAddressTest(java.lang.String)[pri:0, instance:iPAddressValidation.IPAddressValidatorTest@32d992b2]" name="ValidIPAddressTest" duration-ms="9" started-at="2017-10-09T21:25:05Z" data-provider="ValidIPAddressProvider" finished-at="2017-10-09T21:25:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[127.0.0.1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidIPAddressTest -->
+      </class> <!-- iPAddressValidation.IPAddressValidatorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
